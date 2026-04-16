@@ -711,6 +711,7 @@ public class Main : BasePlugin
                 { CustomRoles.Sleep, "#000000" },
                 { CustomRoles.Truant, "#eb3467" },
                 { CustomRoles.Disco, "#eb34e8" },
+                { CustomRoles.Rio, "#eb34e8" },
                 { CustomRoles.Sonar, "#b8fffe" },
                 { CustomRoles.Asthmatic, "#8feb34" },
                 { CustomRoles.Giant, "#32a852" },
